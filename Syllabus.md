@@ -13,15 +13,15 @@
 * Practice the art of presenting your analysis and findings
 * Practice writing up your findings
 * Read and Discuss case studies of other people's analysis
-* Learn to consider the Ethical parts of data science 
+* Learn to consider the Ethical parts of data science
 
 ## TextBook
 
 *Data Smart* by John Foreman, available as a paperback or in eBook format
 
-I will also provide links or elecrontic copies of several articles or case studies
+I will also provide links or electronic copies of several articles and/or case studies
 
-# Topics
+## Topics
 
 * What is Data Science
 * Getting to know Excel
@@ -42,8 +42,10 @@ I will also provide links or elecrontic copies of several articles or case studi
 
 | Category      | %  |
 |---------------|----|
-| Homework      | 30 |
-| Papers        | 25 |
-| Project       | 25 |
+| Homework      | 20 |
+| Papers        | 15 |
+| Project       | 15 |
 | Presentations | 20 |
+| Final ?       | 20 |
+| Participation | 10 |
 | **Total**     | 100|
