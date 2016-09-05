@@ -18,10 +18,18 @@ Course Materials for DS-120 at Luther College
 
 * Topics
     * discussion of the readings
-    * brainstorming about the first data set - Primary election data for 2016
+    * Starting in on Excel
 
 * Assignment
-    * Answering questions about the election data
+    * Create a spreadsheet for the weekend of nutritional data from what you eat.  (or a made-up diet, I don't need to know what you ate)  The columns in the spreadsheet should be:
+      * Meal
+      * Food
+      * calories
+      * protein
+      * carbs
+      * fat
+
+    I understand the Caf has nutritional data posted for the meals or you can use the USDA website or another app that has nutrition data about common foods.  the point is to make a spreadsheet with "a bunch" of rows in it.
 
 ## Readings
 
