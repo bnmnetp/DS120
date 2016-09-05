@@ -4,33 +4,6 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
-### August 31 - Welcome
-
-* Topics
-  * What is Data Science?
-  * Commemorative Class Photo
-  * Course Administrivia
-  * What do you know about Excel?
-* Assignment
-    * Read the Week 1 readings and write a 500 word response:  Why are you interested in data science?  what if any experiences do you have with data science related things?  What did you take away from the readings.
-
-### September 2
-
-* Topics
-    * discussion of the readings
-    * Starting in on Excel
-
-* Assignment
-    * Create a spreadsheet for the weekend of nutritional data from what you eat.  (or a made-up diet, I don't need to know what you ate)  The columns in the spreadsheet should be:
-      * Meal
-      * Food
-      * calories
-      * protein
-      * carbs
-      * fat
-
-    I understand the Caf has nutritional data posted for the meals or you can use the USDA website or another app that has nutrition data about common foods.  the point is to make a spreadsheet with "a bunch" of rows in it.
-
 ### September 5
 
 * Topics
@@ -58,6 +31,34 @@ Course Materials for DS-120 at Luther College
       * Add 15 - 20 rows of data and then create a summary of the total cost and average cost of all items.  The total for each category, and the average for items purchased in a particular store.
 
     * For Wednesday, read chapter 1 in Data Smart
+
+
+### September 2
+
+* Topics
+    * discussion of the readings
+    * Starting in on Excel
+
+* Assignment
+    * Create a spreadsheet for the weekend of nutritional data from what you eat.  (or a made-up diet, I don't need to know what you ate)  The columns in the spreadsheet should be:
+      * Meal
+      * Food
+      * calories
+      * protein
+      * carbs
+      * fat
+
+    I understand the Caf has nutritional data posted for the meals or you can use the USDA website or another app that has nutrition data about common foods.  the point is to make a spreadsheet with "a bunch" of rows in it.
+
+### August 31 - Welcome
+
+* Topics
+  * What is Data Science?
+  * Commemorative Class Photo
+  * Course Administrivia
+  * What do you know about Excel?
+* Assignment
+    * Read the Week 1 readings and write a 500 word response:  Why are you interested in data science?  what if any experiences do you have with data science related things?  What did you take away from the readings.
 
 ## Readings
 
