@@ -57,6 +57,8 @@ Course Materials for DS-120 at Luther College
 
       * Add 15 - 20 rows of data and then create a summary of the total cost and average cost of all items.  The total for each category, and the average for items purchased in a particular store.
 
+    * For Wednesday, read chapter 1 in Data Smart
+
 ## Readings
 
 * Week 1 - Due Friday Sept 2
