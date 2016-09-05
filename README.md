@@ -59,7 +59,7 @@ Course Materials for DS-120 at Luther College
 
 ## Readings
 
-* Week 1
+* Week 1 - Due Friday Sept 2
 
   * https://hbr.org/2013/03/a-data-scientists-real-job-sto
 
@@ -68,7 +68,7 @@ Course Materials for DS-120 at Luther College
   * https://hbr.org/2014/05/10-kinds-of-stories-to-tell-with-data
 
 
-* Week 2
+* Week 2 - Due Friday Sept 9
 
   * http://www.theatlantic.com/technology/archive/2014/11/when-fitbit-is-the-expert-witness/382936/
 
