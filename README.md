@@ -31,6 +31,32 @@ Course Materials for DS-120 at Luther College
 
     I understand the Caf has nutritional data posted for the meals or you can use the USDA website or another app that has nutrition data about common foods.  the point is to make a spreadsheet with "a bunch" of rows in it.
 
+### September 5
+
+* Topics
+    * We will work on developing some summary information on the Calorie Spreadsheet.
+    * Key Excel Functions from today:
+       * sum
+       * average
+       * max
+       * match
+       * index
+       * sumif
+       * countif
+
+    * If time permits we'll download and look at the election data.
+
+* Assignment
+   * For Wednesday develop a simple budget spreadsheet with the following columns
+      * date
+      * purchaser (name)
+      * category
+      * item
+      * cost
+      * store (where you purchased it)
+
+      * Add 15 - 20 rows of data and then create a summary of the total cost and average cost of all items.  The total for each category, and the average for items purchased in a particular store.
+
 ## Readings
 
 * Week 1
