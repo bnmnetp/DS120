@@ -20,15 +20,15 @@ Course Materials for DS-120 at Luther College
     * If time permits we'll download and look at the election data.
 
 * Assignment
-   * For Wednesday develop a simple budget spreadsheet with the following columns
+   * For Wednesday develop a simple expense tracking spreadsheet with the following columns
       * date
-      * purchaser (name)
-      * category
+      * purchaser (name of the person that bought the item)
+      * category (grocery, toiletry, lawn&garden, etc)
       * item
       * cost
       * store (where you purchased it)
 
-      * Add 15 - 20 rows of data and then create a summary of the total cost and average cost of all items.  The total for each category, and the average for items purchased in a particular store.
+      * Add 15 - 20 rows of data and then create a summary of the total cost and average cost of all items.  Use the SUMIF function to calculate The total for each category, and the  SUMIF and COUNTIF functions to calculate the average for items purchased in a particular store.
 
     * For Wednesday, read chapter 1 in Data Smart
 
