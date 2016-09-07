@@ -4,6 +4,25 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+
+### September 7
+
+* Topics
+   * Review match/index
+   * vlookup
+   * sumif
+   * countif
+   * Unanswered Questions - Find RDA for you for calories, fat, protein, carbs
+   * Which meal has the most calories?
+   * Average calories per day?
+   * Meal with the lowest fat?
+   * Making data entry better using vlookup
+
+* Assignment for Friday
+   * enhance your spreadsheet to show total spending by person
+   * enhance your spreadsheet to show total and average spending per category
+   * Readings and reading response.
+
 ### September 5
 
 * Topics
