@@ -4,6 +4,17 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### September 12
+
+* Topics
+    * Patterns of data processing - grouping and aggregating
+    * Making data entry better using vlookup
+    * Using the Solver
+
+* Assignment for Wednesday
+    * Download the Concessions workbook
+    * Find the Calories-Solver tab.  You will also need to enable the solver extension as described in the book.  Modify the sheet so that it has the following constraints and goals:  We want to find the minimum priced meal with 2400 calories that includes  at least one beverage, at least one main meal item, and at least one desert item.  
+    * You can upload your finished workbook to Katie.
 
 ### September 7
 
