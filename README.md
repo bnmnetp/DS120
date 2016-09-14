@@ -8,10 +8,10 @@ Course Materials for DS-120 at Luther College
 
 * Topics
     * Patterns of data processing - grouping and aggregating
+    * Maximizing binge watching
     * Download the Election Data Set
     * Initial examination and brainstorming of questions
       * county_facts.xlsx, primary_results.xlsx, and county_facts_dictionary.xlsx
-      
 
 * Assignment for Friday
     * Optimize the Concession stand **profits** using the following constraints:
