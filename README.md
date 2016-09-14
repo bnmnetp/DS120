@@ -4,10 +4,30 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
-### September 12
+### September 14
 
 * Topics
     * Patterns of data processing - grouping and aggregating
+    * Download the Election Data Set
+    * Initial examination and brainstorming of questions
+      * county_facts.xlsx, primary_results.xlsx, and county_facts_dictionary.xlsx
+      
+
+* Assignment for Friday
+    * Optimize the Concession stand **profits** using the following constraints:
+        * The total number of items sold must be 200 or less
+        * You cannot sell more than 25 hamburgers
+        * You only have 30 Popsicles and ice cream sandwiches
+        * You can sell a maximum of 20 pizza
+        * The combination of water, beer and soda must be more than the total of hamburgers pizza and hot dogs
+
+    * Readings:
+        * [The Ethics conversation we are not having](https://hbr.org/2015/11/the-ethics-conversation-were-not-having-about-data)
+        * [Ethical Dilemmas](http://junkcharts.typepad.com/numbersruleyourworld/2016/07/ethical-dilemmas-in-data-science-and-analytics.html)
+
+### September 12
+
+* Topics
     * Making data entry better using vlookup
     * Using the Solver
 
