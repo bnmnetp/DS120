@@ -17,7 +17,7 @@ Course Materials for DS-120 at Luther College
     * Optimize the Concession stand **profits** using the following constraints:
         * The total number of items sold must be 200 or less
         * You cannot sell more than 25 hamburgers
-        * You only have 30 Popsicles and ice cream sandwiches
+        * You only have 30 Popsicles and 30 ice cream sandwiches
         * You can sell a maximum of 20 pizza
         * The combination of water, beer and soda must be more than the total of hamburgers pizza and hot dogs
 
