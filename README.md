@@ -12,10 +12,9 @@ Course Materials for DS-120 at Luther College
   * Getting to know the county data
   * What kinds of questions can we ask?
 
+
 * Assignment for Wednesday
   * Starting with the ``election_results`` spreadsheet, answer the question, who won more counties, Hillary Clinton or Donald Trump?  You can do this by creating a cell for each of them that shows the number of counties in which one had more votes than the other.  -- This might not mean much until we figure out a more sophisticated analysis, but its good practice.   Turn in your spreadsheet on katie before class on Wednesday.
-
-
 
 
 ### September 16
