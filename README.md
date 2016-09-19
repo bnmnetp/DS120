@@ -4,6 +4,22 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+
+### September 19
+
+* Topics
+  * A different example of using the Optimizer (in Google Sheets)
+  * Getting to know the county data
+  * What kinds of questions can we ask?
+
+* Assignment for Wednesday
+  * depending on what we cover in class I will assign one or more questions for you to answer. I will update this space.
+
+
+### September 16
+
+* In class discussion and poll on ethical dilemmas in data science
+
 ### September 14
 
 * Topics
