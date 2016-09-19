@@ -4,6 +4,24 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+
+### September 19
+
+* Topics
+  * A different example of using the Optimizer (in Google Sheets)
+  * Getting to know the county data
+  * What kinds of questions can we ask?
+
+* Assignment for Wednesday
+  * Starting with the ``election_results`` spreadsheet, answer the question, who won more counties, Hillary Clinton or Donald Trump?  You can do this by creating a cell for each of them that shows the number of counties in which one had more votes than the other.  -- This might not mean much until we figure out a more sophisticated analysis, but its good practice.   Turn in your spreadsheet on katie before class on Wednesday.
+
+
+
+
+### September 16
+
+* In class discussion and poll on ethical dilemmas in data science
+
 ### September 14
 
 * Topics
@@ -17,7 +35,7 @@ Course Materials for DS-120 at Luther College
     * Optimize the Concession stand **profits** using the following constraints:
         * The total number of items sold must be 200 or less
         * You cannot sell more than 25 hamburgers
-        * You only have 30 Popsicles and ice cream sandwiches
+        * You only have 30 Popsicles and 30 ice cream sandwiches
         * You can sell a maximum of 20 pizza
         * The combination of water, beer and soda must be more than the total of hamburgers pizza and hot dogs
 
