@@ -4,16 +4,32 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+
+### September 23
+
+* Great discussions today.  Thanks!
+
+* Questions about the election data  --   Do the FIRST TWO for Monday Sept. 26
+
+  * If Hillary Clinton gets 90% of the Sanders votes and  30 % of all of the non-trump republican votes while trump captures 10% of the Sanders vote along with the 70% of the rest of the republicans who would win the popular vote?
+  * What is the name of the top vote getter for each state?
+
+  * Compare the percentage of votes for Donald Trump in the counties where that are more than 50% black or African American
+  * Who won the vote in the counties where over 30% of the population is older than 65 ?
+  * Using the Electoral college spreadsheet - who would win the electoral college if the votes were winner take all?
+  * Who would win if the votes were proportionally allocated?
+
+
 ### September 21
 
 * Topics
-  * Questions about the election data
+  * Questions about the election data  --   Do the FIRST TWO
+    * If Hillary Clinton gets 90% of the Sanders votes and  30 % of all of the non-trump republican votes while trump captures 10% of the Sanders vote along with the 70% of the rest of the republicans who would win the popular vote?
     * What is the name of the top vote getter for each state?
-    * If Hillary clinton gets 90% of the Sanders votes and  30 % of all of the non-trump republican votes while trump captures 10% of the sanders vote who would win the popular vote?
-    * Using the Electoral college spreadsheet - who would win the electoral college if the votes were winner take all?
-    * Who would win if the votes were proportionally allocated?
 	  * Compare the percentage of votes for donald trump in the counties where that are more than 50% black or african american
 	  * Who won the vote in the counties where over 30% of the population is older than 65 ?
+    * Using the Electoral college spreadsheet - who would win the electoral college if the votes were winner take all?
+    * Who would win if the votes were proportionally allocated?
 
 * Assignment for Friday
   * Pick one of the scenarios from last week, and research a real world example of a similar case.  Try to make a case for the opposite point of view for which you voted last Friday.   Write a short paper of about 1000 words to summarize the real world incident and to make your case.
