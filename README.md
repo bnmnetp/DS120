@@ -4,6 +4,17 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### September 26
+
+**Moving on to Chapter 2**
+
+* Make a little data set
+* Measuring similarity, difference, and distance  
+* Our first try at K-Means clustering
+
+**Assignment for Wednesday**
+
+* Read chapter 2 -- we'll walk through the example or similar in class as well, so don't get bogged down in the details.   Also do the next two questions in the election list.
 
 ### September 23
 
