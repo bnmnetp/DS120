@@ -4,6 +4,23 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### September 28
+
+**Continuing with K-means**
+
+* A better formula for distance  -- Array Formulas!
+* Iterating on our own
+* Automating the iteration with solver
+  * what is our objective function?
+  * what do we let solver change?
+
+**For Friday**
+
+* Extend our example to include all of the movie ratings see MovieRatings.xlsx
+* Listen to one of the following podcasts
+  * Data Skeptic -- Urban Congestion https://overcast.fm/+BzxPcuFIo
+  * FiveThirtyEight Whats the point -- Bear Tracks 9/16/16 https://overcast.fm/+Ez2iSeJdo
+
 ### September 26
 
 **Moving on to Chapter 2**
