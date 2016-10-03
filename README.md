@@ -4,6 +4,20 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### October 3
+
+**Graphing**
+
+* Download and Install Tableau -- Student Key is on Katie
+* Download iris data from Katie
+* Graphing iris data
+* Graphing Movie data
+
+**For Friday**
+
+* Select a training set from the Iris data
+* Cluster the training set into three clusters
+
 ### September 28
 
 **Continuing with K-means**
