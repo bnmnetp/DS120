@@ -4,6 +4,19 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### October 5
+
+* Bar Chart graph of election data
+* Graphing county data on a map!
+* More about 'Vectors' of data
+
+**For Friday**
+
+* http://seeingdata.org/developing-visualisation-literacy/rate-these-visualisations/
+  * watch the video on the front page
+  * Read all of the brown sections and do the ratings at the end.
+  * Be prepared to discuss your ratings.  Upload a screenshot of your grid to Katie
+
 ### October 3
 
 **Graphing**
