@@ -4,6 +4,18 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### October 19
+
+* Review the Iris clustering project
+* Text Processing in Excel - cleaning up data
+
+**For Friday**
+
+* [Buzzfeed/BBC Tennis Investigation](https://www.buzzfeed.com/heidiblake/the-tennis-racket?utm_term=.xhQQG4gldn#.aswkbqBxw8)
+* [Finding the Tennis Suspects](https://medium.com/@rkaplan/finding-the-tennis-suspects-c2d9f198c33d#.qm0yjvzhw)
+* Reading response on Katie
+
+
 ### October 5
 
 * Bar Chart graph of election data
