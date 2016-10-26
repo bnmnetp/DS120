@@ -4,6 +4,19 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### October 26
+
+* In Class lab:  -- Sentiment Analysis (large scale) with the Airline Tweets
+
+** For Friday**
+
+* [The Story Behind Banksy](http://www.smithsonianmag.com/arts-culture/the-story-behind-banksy-4310304/?no-ist)
+* [Banksy Revealed](https://news.artnet.com/people/banksy-identity-revealed-scientists-441185)
+
+### October 24
+
+* Work through the text cleaning and splitting homework
+
 ### October 19
 
 * Review the Iris clustering project
