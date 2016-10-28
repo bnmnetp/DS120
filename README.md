@@ -4,11 +4,29 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### October 31
+
+**Assignment**
+
+* Finish the Sentiment Analysis model with airline tweets
+  1. Finish the word lists for positive and negative tweets
+  2. Build a pivot table for each list that includes the word and the count.
+  3. Using VLOOKUP combine the lists into two columns one for positive and one for negative  -- What should you do if a word is not found?  
+  4. Compute the probability of a word showing up in both positive and negative tweets
+
+* Install Gephi on your computer -- Follow the instructions in Chapter 5
+
+**In Class**
+* Testing your model
+* Introduction to Network Graphs
+
+
+
 ### October 26
 
 * In Class lab:  -- Sentiment Analysis (large scale) with the Airline Tweets
 
-** For Friday**
+**For Friday**
 
 * [The Story Behind Banksy](http://www.smithsonianmag.com/arts-culture/the-story-behind-banksy-4310304/?no-ist)
 * [Banksy Revealed](https://news.artnet.com/people/banksy-identity-revealed-scientists-441185)
