@@ -20,6 +20,7 @@ Course Materials for DS-120 at Luther College
 **In Class**
 
 * Testing your model
+* I can remember [this funny piece](https://www.lhup.edu/~dsimanek/noahfool.htm) posted in the computer room at Luther in 1985.
 * Introduction to Network Graphs
 * [Graphs in Literature](http://lotrproject.com/statistics/books/cooccurrences)
 
