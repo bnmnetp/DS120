@@ -4,6 +4,7 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+
 ### October 31
 
 **Assignment**
@@ -17,8 +18,10 @@ Course Materials for DS-120 at Luther College
 * Install Gephi on your computer -- Follow the instructions in Chapter 5
 
 **In Class**
+
 * Testing your model
 * Introduction to Network Graphs
+* [Graphs in Literature](http://lotrproject.com/statistics/books/cooccurrences)
 
 
 
