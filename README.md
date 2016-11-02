@@ -12,8 +12,9 @@ Course Materials for DS-120 at Luther College
 * Finish the Sentiment Analysis model with airline tweets
   1. Finish the word lists for positive and negative tweets
   2. Build a pivot table for each list that includes the word and the count.
-  3. Using VLOOKUP combine the lists into two columns one for positive and one for negative  -- What should you do if a word is not found?  
-  4. Compute the probability of a word showing up in both positive and negative tweets
+  3. First, combine the two lists into one big long list.  Then use the remove duplicates function on the data tab to eliminate the duplicate words.  
+  4. Now Use the VLOOKUP function to populate the word counts into two columns one for positive and one for negative  -- What should you do if a word is not found?  
+  5. Compute the probability of a word showing up in both positive and negative tweets
 
 * Install Gephi on your computer -- Follow the instructions in Chapter 5
 
