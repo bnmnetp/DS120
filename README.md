@@ -4,6 +4,15 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### November 2
+
+* Introduction to Network Graphs
+* [Graphs in Literature](http://lotrproject.com/statistics/books/cooccurrences)
+* Building an adjacency matrix of our movie data
+
+**For Friday**
+
+* [Bike Sharing in NYC](http://toddwschneider.com/posts/a-tale-of-twenty-two-million-citi-bikes-analyzing-the-nyc-bike-share-system/)
 
 ### October 31
 
