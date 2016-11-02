@@ -13,6 +13,9 @@ Course Materials for DS-120 at Luther College
 **For Friday**
 
 * [Bike Sharing in NYC](http://toddwschneider.com/posts/a-tale-of-twenty-two-million-citi-bikes-analyzing-the-nyc-bike-share-system/)
+* [Data Skeptic -- Rebalancing bike share systems](http://dataskeptic.com/epnotes/nyc-bikeshare-rebalancing.php)
+* For the full story from the podcast read the [KDD Paper](http://www.kdd.org/kdd2016/papers/files/rfp0553-liuAemb.pdf) Yes it has a lot of math, but you should at least give it a try and read some of it and look at the pictures, especially the clustering.
+
 
 ### October 31
 
