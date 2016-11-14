@@ -4,6 +4,30 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### November 14
+
+* Linear Regression  (Starting Chapter 6)
+* Line regression model of a pizza price predictor
+
+**For Wednesday**
+
+* Find the slope and intercept of the cricket data using both solver, and the equations we used in class today
+
+### November 9
+
+* Make an adjacency matrix representation of Iris data
+* load it into Gephi and run the modularity clustering algorithm.
+* Export a spreadsheet back to excel that contains the cluster numbers.  How do they match up against the known categories of iris?
+
+
+**For Friday**   Find an article related to the "failures" of data science
+
+### November 7
+
+* More on adjacency matrix representation
+* Calculating Cosine similarity of movie data
+* Graphing the movie data in Gephi
+
 ### November 2
 
 * Introduction to Network Graphs
