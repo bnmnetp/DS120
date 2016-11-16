@@ -10,7 +10,8 @@ Course Materials for DS-120 at Luther College
 
 **For Friday**
 * [Machine Bias: There’s Software Used Across the Country to Predict Future Criminals. And it’s Biased Against Blacks. - ProPublica](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
-* [85 | Machine Bias with Jeff Larson — Data Stories — Overcast](https://overcast.fm/+DLMVIbrQ)
+* [How We Analyzed the COMPAS Recidivism Algorithm - ProPublica](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm)
+* [Podcast | Machine Bias with Jeff Larson — Data Stories — Overcast](https://overcast.fm/+DLMVIbrQ)
 
 ### November 14
 
