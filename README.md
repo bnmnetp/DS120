@@ -4,6 +4,29 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### November 30
+
+* The credit card default model
+  * Setting a threshold
+  * Building an ROC curve to compare thresholds
+  * Are there some variables that are more useful than others?  Paring down the model
+
+
+### November 28
+
+* Credit Card Default Data
+   * Investigate variables in the data set.  Are there demographic groups that are more likely to default?
+   * For Wednesday - build multiple regression model
+
+
+### November 21
+
+* Analysis of Multiple Regression data
+  * $R^2$
+  * Statistical significance tests
+  * Compare daily predictions versus hourly
+  * Testing variables for statistical significance
+
 ### November 16
 
 * Multiple Regression on bike share data
