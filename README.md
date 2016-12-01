@@ -4,6 +4,10 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### December 2
+
+* Reading:  [Analyzing NYC Taxi trips](http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/)
+
 ### November 30
 
 * The credit card default model
