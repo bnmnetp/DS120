@@ -5,7 +5,7 @@
   Bradley Miller  bmiller@luther.edu <br />
   Office: Olin 321 <br />
   Office Hours:  Everyday 1:30 - 2:30 
-  or By Appointment, [Use my Calendar](https://calendar.google.com/calendar/embed?mode=WEEK&src=millbr02%40luther.edu&ctz=America/Chicago)
+  or By Appointment, [Use my Calendar](https://calendar.google.com/calendar/embed?mode=WEEK&src=millbr02%40luther.edu&ctz=America/Chicago)  Do not email me to ask when I can meet, use the calendar.
 
 ## Goals
 
