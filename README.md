@@ -4,9 +4,16 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### December 5
+
+* Data transformation for better results
+* Making an ROC curve for our best model
+* Ensemble Models
+
 ### December 2
 
 * Reading:  [Analyzing NYC Taxi trips](http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/)
+* **For Monday**  Use the Regression tool provided in the Data Analysis package to find a "good" mix of variables to use in predicting whether someone will default on their loan.  Redo your training set by choosing a 50-50 mix of defaulters, and then use the coefficients calculated by the Regression tool to make predictions for a test set of 1000 randomly selected people from the original.
 
 ### November 30
 
