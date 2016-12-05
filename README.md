@@ -8,6 +8,7 @@ Course Materials for DS-120 at Luther College
 
 * Data transformation for better results
 * Making an ROC curve for our best model
+* Logistic Regression
 * Ensemble Models
 
 ### December 2
