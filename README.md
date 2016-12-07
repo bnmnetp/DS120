@@ -4,6 +4,10 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### December 7
+
+* Revisiting Clustering
+
 ### December 5
 
 * Data transformation for better results
