@@ -4,6 +4,27 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### Feb 3
+
+* Topics
+    * Discussion of the readings
+    * Find an interesting "data story" -- What kind of story is it (see the 10 kinds of stories article)
+    * Analyze the "data story" carefully - does it meet the criteria for objectivity? honesty?
+    
+    * Starting in on Excel
+
+* Assignment
+    * Create a spreadsheet for the weekend of nutritional data from what you eat.  (or a made-up diet, I don't need to know what you ate)  The columns in the spreadsheet should be:
+      * Meal
+      * Food
+      * calories
+      * protein
+      * carbs
+      * fat
+
+    I understand the Caf has nutritional data posted for the meals or you can use the USDA website or another app that has nutrition data about common foods.  the point is to make a spreadsheet with "a bunch" of rows in it.
+
+
 ### Feb 1 - Welcome
 
 * Topics
