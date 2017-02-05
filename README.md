@@ -4,13 +4,40 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### Feb 6
+
+* Topics
+    * We will work on developing some summary information on the Nutrition Spreadsheet
+    * Key Excel Functions from today:
+       * sum
+       * average
+       * max
+       * match
+       * index
+       * sumif
+       * countif
+
+
+* Assignment
+   * For Wednesday develop a simple expense tracking spreadsheet with the following columns
+      * date
+      * purchaser (name of the person that bought the item)
+      * category (grocery, toiletry, lawn&garden, etc)
+      * item
+      * cost
+      * store (where you purchased it)
+
+      * Add 15 - 20 rows of data and then create a summary of the total cost and average cost of all items.  Use the SUMIF function to calculate The total for each category, and the  SUMIF and COUNTIF functions to calculate the average for items purchased in a particular store.
+
+    * For Wednesday, read chapter 1 in Data Smart
+
 ### Feb 3
 
 * Topics
     * Discussion of the readings
     * Find an interesting "data story" -- What kind of story is it (see the 10 kinds of stories article)
     * Analyze the "data story" carefully - does it meet the criteria for objectivity? honesty?
-    
+
     * Starting in on Excel
 
 * Assignment
