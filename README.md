@@ -4,6 +4,18 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### Feb 8
+
+* Topics
+  * Review match, index,
+  * vLookup -- Making a nutrition database
+
+* Readings For Friday
+  * The following readings bring up some interesting issues regarding the use of Big Data in the courtroom.  Sometimes there are unintended consequences when we willingly giving up information that seems harmless.
+  * [When Fitbit is the Expert witness](http://www.theatlantic.com/technology/archive/2014/11/when-fitbit-is-the-expert-witness/382936/)
+  * [Divorced by Data](https://backchannel.com/divorced-by-data-894b6221b2c1#.twi4yw6dj)
+
+
 ### Feb 6
 
 * Topics
