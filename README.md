@@ -4,6 +4,20 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### Feb 13
+
+* Using The Solver in Excel
+* [USDA Nutrition Data](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/)
+
+**For Wednesday**
+
+* Download the Concessions workbook
+* Find the Calories-Solver tab.  You will also need to enable the solver extension as described in the book.  Modify the sheet so that it has the following constraints and goals:  We want to find the minimum priced meal with 2400 calories that includes  at least one beverage, at least one main meal item, and at least one desert item.  
+* You can upload your finished workbook to Katie.
+
+**Reminder: Excel Quiz on Wednesday**
+
+
 ### Feb 8
 
 * Topics
