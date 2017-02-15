@@ -4,6 +4,19 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### Feb 15
+
+* Finish up the Fantasy Football Optimization
+* Quiz on excel functions
+
+**For Friday**
+
+* Readings:
+    * [99% Invisible Episode 226 - On Average](http://99percentinvisible.org/episode/on-average/)
+    * [The Ethics conversation we are not having](https://hbr.org/2015/11/the-ethics-conversation-were-not-having-about-data)
+    * [Ethical Dilemmas](http://junkcharts.typepad.com/numbersruleyourworld/2016/07/ethical-dilemmas-in-data-science-and-analytics.html)
+
+
 ### Feb 13
 
 * Using The Solver in Excel
