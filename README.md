@@ -13,8 +13,15 @@ Course Materials for DS-120 at Luther College
 * Listen to one of the following podcasts
   * Data Skeptic -- Urban Congestion https://overcast.fm/+BzxPcuFIo
   * FiveThirtyEight Whats the point -- Bear Tracks 9/16/16 https://overcast.fm/+Ez2iSeJdo
-* Write 500 word response on Katie
+* Write 500 word response on Katie, and write two questions for class discussion.
 
+**For Monday**
+* Find a dataset that will be appropriate for you try your hand at clustering.   You will turn in a summary of the dataset, the variables it contains, and why you think it is a good dataset for the K-means clustering algorithm.  Remember the limitations of Excel!   Solver can only manage 200 variables, so your number of variables * the number of clusters must be less than 200.  By Monday March 13, you will need to turn in An Excel spreadsheet with your completed clustering, showing your centroids, and an analysis of how accurately you were able to classify your training and test sets.  If your data set does not contain predetermined labels then you should provide an analysis of what you think your clusters represent.
+
+Here are two good sources for data sets to get you started:
+
+  * http://kaggle.com
+  * https://github.com/caesar0301/awesome-public-datasets
 
 ### Feb 27
 
