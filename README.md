@@ -4,6 +4,22 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### Mar 1
+
+* Introduction to Bayesian Classification
+
+**For Friday Discussion**
+
+* Listen to one of the following podcasts
+  * Data Skeptic -- Urban Congestion https://overcast.fm/+BzxPcuFIo
+  * FiveThirtyEight Whats the point -- Bear Tracks 9/16/16 https://overcast.fm/+Ez2iSeJdo
+* Write 500 word response on Katie
+
+
+### Feb 27
+
+* Work on Iris Data Clustering Assignment
+
 ### Feb 20
 
 * Review the Quiz
