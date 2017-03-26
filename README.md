@@ -4,6 +4,14 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### Mar 27
+
+* Review Quiz 2
+* Putting together the positive and negative summary tabs
+* Making our first prediction
+
+
+
 ### Mar 1
 
 * Introduction to Bayesian Classification
