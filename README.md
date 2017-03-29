@@ -4,6 +4,22 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### Mar 29
+
+* Finish our our sentiment analysis model
+* Test some examples
+
+**For Friday**
+
+* [Buzzfeed/BBC Tennis Investigation](https://www.buzzfeed.com/heidiblake/the-tennis-racket?utm_term=.xhQQG4gldn#.aswkbqBxw8)
+* [Finding the Tennis Suspects](https://medium.com/@rkaplan/finding-the-tennis-suspects-c2d9f198c33d#.qm0yjvzhw)
+* Reading response on Katie
+
+**For Monday**
+
+* Take 1000 tweets from the test set and classify them.
+* How many are classified correctly?
+
 ### Mar 27
 
 * Review Quiz 2
