@@ -4,6 +4,16 @@ Course Materials for DS-120 at Luther College
 
 ## Schedule
 
+### April 5
+
+* More Regression
+* Correlation and a story
+
+### April 3
+
+* Introducing Regression and basic stats
+* **for Wednesday**  -- Crickets data
+
 ### Mar 29
 
 * Finish our our sentiment analysis model
