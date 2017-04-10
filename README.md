@@ -3,11 +3,21 @@
 Course Materials for DS-120 at Luther College
 
 ## Schedule
+### April 10
+
+* Correlation
+* Collaborative Filtering
+
 
 ### April 5
 
 * More Regression
-* Correlation and a story
+
+**For Friday**
+
+* [The Story Behind Banksy](http://www.smithsonianmag.com/arts-culture/the-story-behind-banksy-4310304/?no-ist)
+* [Banksy Revealed](https://news.artnet.com/people/banksy-identity-revealed-scientists-441185)
+
 
 ### April 3
 
